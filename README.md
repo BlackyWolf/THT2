@@ -20,6 +20,8 @@ I will work on this when I have time.
 
 This project will only work in evergreen browsers. I am not supporting Internet Explorer under any circumstances. It's not worth it, and not only does it prevent me from developing software properly it brings no value to my clients and allows them to continue to use outdated products.
 
+Some features I'll be using include CSS grids, so this may not work in all browsers right now.
+
 ## License
 
 Original copyright (c) 2016-2018 TheHostingTool. Code released under the MIT License.
